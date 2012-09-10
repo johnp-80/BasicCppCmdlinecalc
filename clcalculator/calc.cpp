@@ -1,7 +1,8 @@
 /*
  * Author: johnp80
- * a simple command line calculator implementation
- * 2/10/2012
+ * Description: a simple command line calculator implementation
+ * created: 2/10/2012
+ * updated: 9/9/2012
  * Made for http://www.reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/
  * */
 
