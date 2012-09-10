@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1345947561 source:c:\users\johnp80\documents\github\johnp80\clcalculator\calc.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	"basic_calc.cpp"
+	"menu.cpp"
+
+1345946531 c:\users\johnp80\documents\github\johnp80\clcalculator\bin\release\mean.h
+
+1345946531 c:\users\johnp80\documents\github\johnp80\clcalculator\bin\release\stdev.h
+
+1345946531 c:\users\johnp80\documents\github\johnp80\clcalculator\bin\release\variance.h
+
+1345947460 c:\users\johnp80\documents\github\johnp80\clcalculator\basic_calc.cpp
+
+1345947561 c:\users\johnp80\documents\github\johnp80\clcalculator\menu.cpp
+
