@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
@@ -24,20 +23,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="basic_calc.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="basic_calc.h" />
 		<Unit filename="calc.cpp" />
-		<Unit filename="mean.cpp">
+		<Unit filename="mean.h">
+			<Option compile="1" />
+			<Option link="1" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="menu.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="ratecalc.h" />
 		<Unit filename="stdevi.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="variance.cpp">
+		<Unit filename="variance.h">
+			<Option compile="1" />
+			<Option link="1" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
@@ -46,52 +46,3 @@
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
-=======
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<CodeBlocks_project_file>
-	<FileVersion major="1" minor="6" />
-	<Project>
-		<Option title="clcalculator" />
-		<Option pch_mode="2" />
-		<Option compiler="gcc" />
-		<Build>
-			<Target title="Release">
-				<Option output="bin\Release\clcalculator" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj\Release\" />
-				<Option type="1" />
-				<Option compiler="gcc" />
-				<Compiler>
-					<Add option="-O2" />
-				</Compiler>
-				<Linker>
-					<Add option="-s" />
-				</Linker>
-			</Target>
-		</Build>
-		<Compiler>
-			<Add option="-Wall" />
-			<Add option="-fexceptions" />
-		</Compiler>
-		<Unit filename="basic_calc.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="calc.cpp" />
-		<Unit filename="mean.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="menu.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="stdevi.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="variance.cpp">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Extensions>
-			<code_completion />
-			<debugger />
-		</Extensions>
-	</Project>
-</CodeBlocks_project_file>
->>>>>>> origin/master
