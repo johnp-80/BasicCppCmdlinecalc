@@ -12,6 +12,7 @@
 #include <fstream>
 #include "basic_calc.h"
 #include "menu.h"
+#include "ratecalc.h"
 
 
 
