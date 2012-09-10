@@ -9,8 +9,8 @@
 #include <cmath>
 #include <vector>
 #include <fstream>
-#include "basic_calc.cpp"
-#include "menu.cpp"
+#include "basic_calc.h"
+#include "menu.h"
 
 
 
